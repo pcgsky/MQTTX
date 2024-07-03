@@ -60,7 +60,7 @@
   },
   "pkg": {
     "targets": [
-      "node18-linux-arm64"
+      "node18-linux-armv7"
     ],
     "outputPath": "release",
     "scripts": [
